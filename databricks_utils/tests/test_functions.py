@@ -1,4 +1,4 @@
-from ..utilities.utils import is_valid_email
+from ..src.udfs import is_valid_email
 
 
 def test_masking_locations():
